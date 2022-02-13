@@ -1,0 +1,27 @@
+{
+  "name": "jcs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "episodes.js",
+  "scripts": {
+    "gen": "node ./src/genJson.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint src --ext js",
+    "lint:fix": "eslint src --ext js --fix"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "any-date-parser": "^1.5.2",
+    "csv-parser": "^3.0.0",
+    "ffprobe": "^1.1.2",
+    "graceful-fs": "^4.2.9",
+    "json-2-csv": "^3.17.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.14.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1"
+  }
+}
