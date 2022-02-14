@@ -13,6 +13,8 @@
   "license": "ISC",
   "dependencies": {
     "any-date-parser": "^1.5.2",
+    "axios": "^0.25.0",
+    "crypto-js": "^4.1.1",
     "csv-parser": "^3.0.0",
     "ffprobe": "^1.1.2",
     "graceful-fs": "^4.2.9",

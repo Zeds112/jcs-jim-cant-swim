@@ -2,7 +2,8 @@
 
 const fs = require('graceful-fs');
 const converter = require('json-2-csv');
-let episodes = require('./episodes');
+const SHA256 = require("crypto-js/sha256");
+let episodes = require('../dev/episodes');
 
 // eslint-disable-next-line no-unused-vars
 const checkOrder = (order, obj, episodeArr, arrIndex) => {
@@ -29,9 +30,9 @@ episodes.youtube.forEach((item, index) => {
     'aliases',
     'runtime',
   ],
-  item,
-  episodes.youtube,
-  index);
+    item,
+    episodes.youtube,
+    index);
 
   for (let i = 0; i < item.links.length; i += 1) {
     if (item.links[i].link.includes('youtube') || item.links[i].link.includes('wistia')) {
@@ -54,9 +55,15 @@ episodes.patreon.forEach((item, index) => {
     'stream',
     'runtime',
   ],
-  item,
-  episodes.patreon,
-  index);
+    item,
+    episodes.patreon,
+    index);
+
+  if (item.link) {
+    const parts = item.link.split('/');
+    parts[parts.length - 1] = SHA256(parts[parts.length - 1]).toString();
+    item.link = parts.join('/');
+  }
 
   delete item.pass;
   delete item.stream;
@@ -68,6 +75,7 @@ const sortDates = (type) => {
   episodes[type] = episodes[type].sort((a, b) => {
     const date1 = a.releaseDate ? (Date.fromString(a.releaseDate)).getTime() : 0;
     const date2 = b.releaseDate ? (Date.fromString(b.releaseDate)).getTime() : 0;
+
     return date1 - date2;
   });
 };
