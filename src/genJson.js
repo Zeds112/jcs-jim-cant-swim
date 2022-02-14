@@ -75,7 +75,6 @@ const sortDates = (type) => {
   episodes[type] = episodes[type].sort((a, b) => {
     const date1 = a.releaseDate ? (Date.fromString(a.releaseDate)).getTime() : 0;
     const date2 = b.releaseDate ? (Date.fromString(b.releaseDate)).getTime() : 0;
-
     return date1 - date2;
   });
 };
