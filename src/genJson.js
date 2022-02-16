@@ -38,7 +38,7 @@ episodes.youtube.forEach((item, index) => {
     if (item.links[i].link.includes('youtube') || item.links[i].link.includes('wistia')) {
       //
     } else {
-      item.links = {};
+      item.links[i] = {};
     }
   }
 });

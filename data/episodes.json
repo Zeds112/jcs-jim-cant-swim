@@ -2,8 +2,8 @@
     "totalCount": 119,
     "youtubeCount": {
         "total": 64,
-        "totalLinks": 45,
-        "totalLinksAvailable": 14
+        "totalLinks": 62,
+        "totalLinksAvailable": 23
     },
     "patreonCount": {
         "total": 55,
@@ -15,7 +15,9 @@
             "source": "youtube",
             "title": "February 12th 1993 The Case of James Bulger",
             "releaseDate": "",
-            "links": {},
+            "links": [
+                {}
+            ],
             "aliases": [],
             "runtime": "00:18:52"
         },
@@ -128,7 +130,15 @@
             "source": "youtube",
             "title": "The Interrogation of Jodi Arias",
             "releaseDate": "2018-10-18",
-            "links": {},
+            "links": [
+                {
+                    "link": "https://www.youtube.com/watch?v=OMSI2qQ5EX0",
+                    "availability": "Unavailable",
+                    "runtime": "00:46:35",
+                    "availabilityChecked": "2022-02-16"
+                },
+                {}
+            ],
             "aliases": [],
             "runtime": "02:10:44"
         },
@@ -151,7 +161,15 @@
             "source": "youtube",
             "title": "The Most Compelling Police Interrogations pt. 2",
             "releaseDate": "2018-10-30",
-            "links": {},
+            "links": [
+                {
+                    "link": "https://www.youtube.com/watch?v=Ly3FfI7XrmY",
+                    "availability": "Unavailable",
+                    "runtime": "00:46:42",
+                    "availabilityChecked": "2022-02-16"
+                },
+                {}
+            ],
             "aliases": [],
             "runtime": "00:49:45"
         },
@@ -219,7 +237,15 @@
             "source": "youtube",
             "title": "The Most Compelling Police Interrogations pt. 7",
             "releaseDate": "2018-12-05",
-            "links": {},
+            "links": [
+                {
+                    "link": "https://www.youtube.com/watch?v=rBpDHJIwcUk",
+                    "availability": "Unavailable",
+                    "runtime": "01:01:54",
+                    "availabilityChecked": "2022-02-16"
+                },
+                {}
+            ],
             "aliases": [],
             "runtime": "01:03:24"
         },
@@ -272,7 +298,15 @@
             "source": "youtube",
             "title": "The Case of Chris Watts - pt. 1",
             "releaseDate": "2019-01-17",
-            "links": {},
+            "links": [
+                {
+                    "link": "https://www.youtube.com/watch?v=Xfg861hO-Ag",
+                    "availability": "Available",
+                    "runtime": "00:23:02",
+                    "availabilityChecked": "2022-02-16"
+                },
+                {}
+            ],
             "aliases": [],
             "runtime": "00:21:19"
         },
@@ -280,7 +314,15 @@
             "source": "youtube",
             "title": "The Case of Chris Watts - Part 2 - The Polygraph",
             "releaseDate": "2019-01-23",
-            "links": {},
+            "links": [
+                {
+                    "link": "https://www.youtube.com/watch?v=nVZhV7M3mNE",
+                    "availability": "Available",
+                    "runtime": "00:24:24",
+                    "availabilityChecked": "2022-02-16"
+                },
+                {}
+            ],
             "aliases": [],
             "runtime": "00:24:24"
         },
@@ -288,7 +330,15 @@
             "source": "youtube",
             "title": "The Case of Chris Watts - Part 3 - The Confession",
             "releaseDate": "2019-01-29",
-            "links": {},
+            "links": [
+                {
+                    "link": "https://www.youtube.com/watch?v=yS3k_Inm45Q",
+                    "availability": "Available",
+                    "runtime": "00:32:11",
+                    "availabilityChecked": "2022-02-16"
+                },
+                {}
+            ],
             "aliases": [],
             "runtime": "00:30:37"
         },
@@ -401,7 +451,15 @@
             "source": "youtube",
             "title": "The Case of Jussie Smollett",
             "releaseDate": "2019-04-09",
-            "links": {},
+            "links": [
+                {
+                    "link": "https://www.youtube.com/watch?v=nmQJfFumYg0",
+                    "availability": "Unavailable",
+                    "runtime": "00:38:37",
+                    "availabilityChecked": "2022-02-16"
+                },
+                {}
+            ],
             "aliases": [],
             "runtime": "00:38:36"
         },
@@ -514,7 +572,15 @@
             "source": "youtube",
             "title": "The Interrogation of Stephanie Lazarus",
             "releaseDate": "2019-08-21",
-            "links": {},
+            "links": [
+                {
+                    "link": "https://www.youtube.com/watch?v=WLSNPkf8RCU",
+                    "availability": "Available",
+                    "runtime": "00:56:06",
+                    "availabilityChecked": "2022-02-16"
+                },
+                {}
+            ],
             "aliases": [],
             "runtime": "00:50:18"
         },
@@ -522,7 +588,15 @@
             "source": "youtube",
             "title": "The Case of Grant Amato",
             "releaseDate": "2019-08-31",
-            "links": {},
+            "links": [
+                {
+                    "link": "https://www.youtube.com/watch?v=IFcl3dm3LM8",
+                    "availability": "Unavailable",
+                    "runtime": "01:43:26",
+                    "availabilityChecked": "2022-02-16"
+                },
+                {}
+            ],
             "aliases": [],
             "runtime": "01:41:40"
         },
@@ -562,7 +636,15 @@
             "source": "youtube",
             "title": "The Case of Michael Drejka",
             "releaseDate": "2019-10-08",
-            "links": {},
+            "links": [
+                {
+                    "link": "https://www.youtube.com/watch?v=sv0iN5J-9mk",
+                    "availability": "Available",
+                    "runtime": "00:52:29",
+                    "availabilityChecked": "2022-02-16"
+                },
+                {}
+            ],
             "aliases": [],
             "runtime": "00:52:29"
         },
@@ -585,7 +667,15 @@
             "source": "youtube",
             "title": "The Case of Michael Rafferty",
             "releaseDate": "2019-11-06",
-            "links": {},
+            "links": [
+                {
+                    "link": "https://www.youtube.com/watch?v=1J2YOLQM2Yc",
+                    "availability": "Available",
+                    "runtime": "00:58:33",
+                    "availabilityChecked": "2022-02-16"
+                },
+                {}
+            ],
             "aliases": [],
             "runtime": "00:57:28"
         },
@@ -608,7 +698,15 @@
             "source": "youtube",
             "title": "The Psychology of Prince Andrew",
             "releaseDate": "2019-11-25",
-            "links": {},
+            "links": [
+                {
+                    "link": "https://www.youtube.com/watch?v=q-y2g9Ot5GA",
+                    "availability": "Available",
+                    "runtime": "00:29:53",
+                    "availabilityChecked": "2022-02-16"
+                },
+                {}
+            ],
             "aliases": [],
             "runtime": "00:29:53"
         },
@@ -661,7 +759,15 @@
             "source": "youtube",
             "title": "The Case of Michael Dunn",
             "releaseDate": "2020-02-20",
-            "links": {},
+            "links": [
+                {
+                    "link": "https://www.youtube.com/watch?v=sVF_SlzxBJ4",
+                    "availability": "Available",
+                    "runtime": "00:57:59",
+                    "availabilityChecked": "2022-02-16"
+                },
+                {}
+            ],
             "aliases": [],
             "runtime": "00:57:35"
         },
@@ -669,7 +775,15 @@
             "source": "youtube",
             "title": "The Case of Ms. Sorella",
             "releaseDate": "2020-03-05",
-            "links": {},
+            "links": [
+                {
+                    "link": "https://www.youtube.com/watch?v=IPJrTDcUfxM",
+                    "availability": "Unavailable",
+                    "runtime": "00:17:01",
+                    "availabilityChecked": "2022-02-16"
+                },
+                {}
+            ],
             "aliases": [],
             "runtime": "00:17:00"
         },
@@ -677,7 +791,15 @@
             "source": "youtube",
             "title": "The Case of Jon Koppenhaver",
             "releaseDate": "2020-04-17",
-            "links": {},
+            "links": [
+                {
+                    "link": "https://www.youtube.com/watch?v=j3PLLOreTLY",
+                    "availability": "Unavailable",
+                    "runtime": "01:03:40",
+                    "availabilityChecked": "2022-02-16"
+                },
+                {}
+            ],
             "aliases": [
                 "The Case of Jon Koppenhaver (War Machine)"
             ],
@@ -687,7 +809,15 @@
             "source": "youtube",
             "title": "Interrogation of Mr. M",
             "releaseDate": "2020-04-30",
-            "links": {},
+            "links": [
+                {
+                    "link": "https://www.youtube.com/watch?v=_pO5_cRePk4",
+                    "availability": "Available",
+                    "runtime": "00:24:41",
+                    "availabilityChecked": "2022-02-16"
+                },
+                {}
+            ],
             "aliases": [],
             "runtime": "00:24:41"
         },
@@ -695,7 +825,15 @@
             "source": "youtube",
             "title": "The Case of Andy. B",
             "releaseDate": "2020-06-02",
-            "links": {},
+            "links": [
+                {
+                    "link": "https://www.youtube.com/watch?v=F8orsIP0bCQ",
+                    "availability": "Unavailable",
+                    "runtime": "00:25:09",
+                    "availabilityChecked": "2022-02-16"
+                },
+                {}
+            ],
             "aliases": [],
             "runtime": "00:25:09"
         },
@@ -823,7 +961,9 @@
             "source": "youtube",
             "title": "Christmas with Cliff",
             "releaseDate": "2021-12-20",
-            "links": {},
+            "links": [
+                {}
+            ],
             "aliases": [],
             "runtime": "00:32:56"
         },
