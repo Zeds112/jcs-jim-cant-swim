@@ -2,8 +2,8 @@
     "totalCount": 119,
     "youtubeCount": {
         "total": 64,
-        "totalLinks": 62,
-        "totalLinksAvailable": 23
+        "totalLinks": 63,
+        "totalLinksAvailable": 24
     },
     "patreonCount": {
         "total": 55,
@@ -962,6 +962,12 @@
             "title": "Christmas with Cliff",
             "releaseDate": "2021-12-20",
             "links": [
+                {
+                    "link": "https://www.youtube.com/watch?v=ThUc_Xjc0Ss",
+                    "availability": "Available",
+                    "runtime": "30:48",
+                    "availabilityChecked": "2022-02-16"
+                },
                 {}
             ],
             "aliases": [],
