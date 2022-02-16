@@ -5,7 +5,11 @@
         "totalLinks": 45,
         "totalLinksAvailable": 14
     },
-    "patreonCount": 55,
+    "patreonCount": {
+        "total": 55,
+        "totalLinks": 39,
+        "totalLinksAvailable": 39
+    },
     "youtube": [
         {
             "source": "youtube",
@@ -802,7 +806,8 @@
             "link": "",
             "wistiaTitles": [],
             "patreonTitles": [],
-            "runtime": ""
+            "runtime": "",
+            "availability": "Unavailable"
         },
         {
             "source": "patreon",
@@ -811,7 +816,8 @@
             "link": "",
             "wistiaTitles": [],
             "patreonTitles": [],
-            "runtime": ""
+            "runtime": "",
+            "availability": "Unavailable"
         },
         {
             "source": "patreon",
@@ -820,7 +826,8 @@
             "link": "",
             "wistiaTitles": [],
             "patreonTitles": [],
-            "runtime": ""
+            "runtime": "",
+            "availability": "Unavailable"
         },
         {
             "source": "patreon",
@@ -833,7 +840,8 @@
             "patreonTitles": [
                 "Juvenile Interrogations"
             ],
-            "runtime": "00:58:13"
+            "runtime": "00:58:13",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -842,7 +850,8 @@
             "link": "",
             "wistiaTitles": [],
             "patreonTitles": [],
-            "runtime": ""
+            "runtime": "",
+            "availability": "Unavailable"
         },
         {
             "source": "patreon",
@@ -855,7 +864,8 @@
             "patreonTitles": [
                 "The Case of Alek Minassian"
             ],
-            "runtime": "00:53:24"
+            "runtime": "00:53:24",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -868,7 +878,8 @@
             "patreonTitles": [
                 "The Case of Chris Garnier"
             ],
-            "runtime": "00:31:02"
+            "runtime": "00:31:02",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -877,7 +888,8 @@
             "link": "",
             "wistiaTitles": [],
             "patreonTitles": [],
-            "runtime": ""
+            "runtime": "",
+            "availability": "Unavailable"
         },
         {
             "source": "patreon",
@@ -886,7 +898,8 @@
             "link": "",
             "wistiaTitles": [],
             "patreonTitles": [],
-            "runtime": ""
+            "runtime": "",
+            "availability": "Unavailable"
         },
         {
             "source": "patreon",
@@ -895,7 +908,8 @@
             "link": "",
             "wistiaTitles": [],
             "patreonTitles": [],
-            "runtime": ""
+            "runtime": "",
+            "availability": "Unavailable"
         },
         {
             "source": "patreon",
@@ -908,7 +922,8 @@
             "patreonTitles": [
                 "The Death Row Phenomenon"
             ],
-            "runtime": "00:49:10"
+            "runtime": "00:49:10",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -917,7 +932,8 @@
             "link": "",
             "wistiaTitles": [],
             "patreonTitles": [],
-            "runtime": ""
+            "runtime": "",
+            "availability": "Unavailable"
         },
         {
             "source": "patreon",
@@ -930,7 +946,8 @@
             "patreonTitles": [
                 "CWpt. 4"
             ],
-            "runtime": "00:44:52"
+            "runtime": "00:44:52",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -939,7 +956,8 @@
             "link": "",
             "wistiaTitles": [],
             "patreonTitles": [],
-            "runtime": ""
+            "runtime": "",
+            "availability": "Unavailable"
         },
         {
             "source": "patreon",
@@ -952,7 +970,8 @@
             "patreonTitles": [
                 "Amber H and Cameron R"
             ],
-            "runtime": "00:50:56"
+            "runtime": "00:50:56",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -961,7 +980,8 @@
             "link": "",
             "wistiaTitles": [],
             "patreonTitles": [],
-            "runtime": ""
+            "runtime": "",
+            "availability": "Unavailable"
         },
         {
             "source": "patreon",
@@ -970,7 +990,8 @@
             "link": "",
             "wistiaTitles": [],
             "patreonTitles": [],
-            "runtime": ""
+            "runtime": "",
+            "availability": "Unavailable"
         },
         {
             "source": "patreon",
@@ -984,7 +1005,8 @@
                 "The Psychology of Online Predators - Part 4",
                 "The Psychology of Online Predators"
             ],
-            "runtime": "00:30:24"
+            "runtime": "00:30:24",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -997,7 +1019,8 @@
             "patreonTitles": [
                 "Police Interrogations #Viewer Discretion Advised##"
             ],
-            "runtime": "01:09:02"
+            "runtime": "01:09:02",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -1006,7 +1029,8 @@
             "link": "",
             "wistiaTitles": [],
             "patreonTitles": [],
-            "runtime": ""
+            "runtime": "",
+            "availability": "Unavailable"
         },
         {
             "source": "patreon",
@@ -1015,7 +1039,8 @@
             "link": "",
             "wistiaTitles": [],
             "patreonTitles": [],
-            "runtime": ""
+            "runtime": "",
+            "availability": "Unavailable"
         },
         {
             "source": "patreon",
@@ -1028,7 +1053,8 @@
             "patreonTitles": [
                 "The Interrogation of Steven J. Williams"
             ],
-            "runtime": "00:41:58"
+            "runtime": "00:41:58",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -1041,7 +1067,8 @@
             "patreonTitles": [
                 "The Hidden Perspective - Part 1 - Invisible Enemy #Viewer Discretion Advised#"
             ],
-            "runtime": "00:27:01"
+            "runtime": "00:27:01",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -1050,7 +1077,8 @@
             "link": "",
             "wistiaTitles": [],
             "patreonTitles": [],
-            "runtime": ""
+            "runtime": "",
+            "availability": "Unavailable"
         },
         {
             "source": "patreon",
@@ -1063,7 +1091,8 @@
             "patreonTitles": [
                 "The Psychology of Ted Bundy"
             ],
-            "runtime": "00:50:56"
+            "runtime": "00:50:56",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -1076,7 +1105,8 @@
             "patreonTitles": [
                 "Police Interrogations of The Online Predators"
             ],
-            "runtime": "00:49:15"
+            "runtime": "00:49:15",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -1085,7 +1115,8 @@
             "link": "",
             "wistiaTitles": [],
             "patreonTitles": [],
-            "runtime": ""
+            "runtime": "",
+            "availability": "Unavailable"
         },
         {
             "source": "patreon",
@@ -1098,7 +1129,8 @@
             "patreonTitles": [
                 "Police Interrogations - 2"
             ],
-            "runtime": "00:55:54"
+            "runtime": "00:55:54",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -1111,7 +1143,8 @@
             "patreonTitles": [
                 "Police Interrogations - 3"
             ],
-            "runtime": "01:03:09"
+            "runtime": "01:03:09",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -1124,7 +1157,8 @@
             "patreonTitles": [
                 "Police Interrogations - 4"
             ],
-            "runtime": "01:05:50"
+            "runtime": "01:05:50",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -1137,7 +1171,8 @@
             "patreonTitles": [
                 "The Hidden Perspective - pt. 2 - Roll of the Dice #Viewer Discretion Advised#"
             ],
-            "runtime": "00:23:53"
+            "runtime": "00:23:53",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -1150,7 +1185,8 @@
             "patreonTitles": [
                 "Police Interrogations - 5 #Viewer Discretion Advised#"
             ],
-            "runtime": "00:48:30"
+            "runtime": "00:48:30",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -1163,7 +1199,8 @@
             "patreonTitles": [
                 "Police Interrogations - 6 #Viewer Discretion Advised#"
             ],
-            "runtime": "00:40:14"
+            "runtime": "00:40:14",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -1176,7 +1213,8 @@
             "patreonTitles": [
                 "Police Interrogations - 7"
             ],
-            "runtime": "00:55:41"
+            "runtime": "00:55:41",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -1189,7 +1227,8 @@
             "patreonTitles": [
                 "Psychology of The 6th Floor #Viewer Discretion Advised#"
             ],
-            "runtime": "01:00:08"
+            "runtime": "01:00:08",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -1202,7 +1241,8 @@
             "patreonTitles": [
                 "Chris Coleman, Levi Belfield, Brian David Mitchel"
             ],
-            "runtime": "00:29:27"
+            "runtime": "00:29:27",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -1215,7 +1255,8 @@
             "patreonTitles": [
                 "The Interrogations of Mr. Mathews and Miss Hoare"
             ],
-            "runtime": "00:53:51"
+            "runtime": "00:53:51",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -1228,7 +1269,8 @@
             "patreonTitles": [
                 "Derek Saretzky, Cardinal George Pell, William Sandeson"
             ],
-            "runtime": "00:50:14"
+            "runtime": "00:50:14",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -1241,7 +1283,8 @@
             "patreonTitles": [
                 "Police Interrogations - 8 #Viewer Discretion Advised#"
             ],
-            "runtime": "00:38:49"
+            "runtime": "00:38:49",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -1250,7 +1293,8 @@
             "link": "",
             "wistiaTitles": [],
             "patreonTitles": [],
-            "runtime": ""
+            "runtime": "",
+            "availability": "Unavailable"
         },
         {
             "source": "patreon",
@@ -1263,7 +1307,8 @@
             "patreonTitles": [
                 "The Case of Karina Vetrano"
             ],
-            "runtime": "00:53:06"
+            "runtime": "00:53:06",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -1277,7 +1322,8 @@
                 "Police Interrogations - 9",
                 "The Most Compelling Police Interrogations pt. 7"
             ],
-            "runtime": "01:03:24"
+            "runtime": "01:03:24",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -1288,7 +1334,8 @@
                 "The Interrogation of Jodi Arias - pt. 2"
             ],
             "patreonTitles": [],
-            "runtime": "01:09:40"
+            "runtime": "01:09:40",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -1299,7 +1346,8 @@
                 "Derek Medina, Special Operations Group, Jerome Ersland"
             ],
             "patreonTitles": [],
-            "runtime": "00:37:02"
+            "runtime": "00:37:02",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -1310,7 +1358,8 @@
                 "The Most Compelling Police Interrogations pt. 9"
             ],
             "patreonTitles": [],
-            "runtime": "01:21:36"
+            "runtime": "01:21:36",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -1321,7 +1370,8 @@
                 "Michael Dixon, Shayna Hubers, Thomas Chan"
             ],
             "patreonTitles": [],
-            "runtime": ""
+            "runtime": "",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -1332,7 +1382,8 @@
                 "The Interrogation of George the 5th"
             ],
             "patreonTitles": [],
-            "runtime": ""
+            "runtime": "",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -1343,7 +1394,8 @@
                 "TMC Police Interrogations pt. 11"
             ],
             "patreonTitles": [],
-            "runtime": "00:56:53"
+            "runtime": "00:56:53",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -1354,7 +1406,8 @@
                 "The Interrogation of Jodi Arias"
             ],
             "patreonTitles": [],
-            "runtime": "00:46:35"
+            "runtime": "00:46:35",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -1365,7 +1418,8 @@
                 "The Case of Grant Amato"
             ],
             "patreonTitles": [],
-            "runtime": ""
+            "runtime": "",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -1376,7 +1430,8 @@
                 "Police Interrogations"
             ],
             "patreonTitles": [],
-            "runtime": "00:44:31"
+            "runtime": "00:44:31",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -1387,7 +1442,8 @@
                 "The Insanity Defense"
             ],
             "patreonTitles": [],
-            "runtime": "01:02:06"
+            "runtime": "01:02:06",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -1400,7 +1456,8 @@
             "patreonTitles": [
                 "The Case of Andy B. (extended) #Viewer Discretion Advised#"
             ],
-            "runtime": "00:58:30"
+            "runtime": "00:58:30",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -1411,7 +1468,8 @@
                 "The Case of Mr. L"
             ],
             "patreonTitles": [],
-            "runtime": ""
+            "runtime": "",
+            "availability": "Available"
         },
         {
             "source": "patreon",
@@ -1424,7 +1482,8 @@
             "patreonTitles": [
                 "The Psychology of Miss. W #Viewer Discretion Advised#"
             ],
-            "runtime": "01:23:47"
+            "runtime": "01:23:47",
+            "availability": "Available"
         }
     ]
 }

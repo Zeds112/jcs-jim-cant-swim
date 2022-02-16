@@ -54,6 +54,7 @@ episodes.patreon.forEach((item, index) => {
     'pass',
     'stream',
     'runtime',
+    'availability',
   ],
   item,
   episodes.patreon,
@@ -88,7 +89,11 @@ episodes = {
     totalLinks: episodes.youtube.filter((row) => JSON.stringify(row.links).includes('youtube')).length,
     totalLinksAvailable: episodes.youtube.filter((row) => JSON.stringify(row.links).includes('Available')).length,
   },
-  patreonCount: episodes.patreon.length,
+  patreonCount: {
+    total: episodes.patreon.length,
+    totalLinks: episodes.patreon.filter((row) => row.link.includes('wistia')).length,
+    totalLinksAvailable: episodes.patreon.filter((row) => row.availability === 'Available').length,
+  },
   ...episodes,
 };
 
