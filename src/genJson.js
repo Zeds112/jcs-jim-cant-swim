@@ -55,6 +55,7 @@ episodes.patreon.forEach((item, index) => {
     'stream',
     'runtime',
     'availability',
+    'availabilityChecked',
   ],
   item,
   episodes.patreon,
