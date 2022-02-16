@@ -1,6 +1,6 @@
 {
-    "totalCount": 118,
-    "youtubeCount": 63,
+    "totalCount": 119,
+    "youtubeCount": 64,
     "patreonCount": 55,
     "youtube": [
         {
@@ -774,6 +774,20 @@
             "links": {},
             "aliases": [],
             "runtime": "00:32:56"
+        },
+        {
+            "source": "youtube",
+            "title": "Prince Andrew's guide to getting away with sex crimes",
+            "releaseDate": "2022-02-15",
+            "links": [
+                {
+                    "link": "https://www.youtube.com/watch?v=hi_ouCmuFTI",
+                    "availability": "Available",
+                    "runtime": "00:10:41"
+                }
+            ],
+            "aliases": [],
+            "runtime": "00:10:41"
         }
     ],
     "patreon": [
