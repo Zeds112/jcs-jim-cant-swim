@@ -2,7 +2,7 @@
 
 const fs = require('graceful-fs');
 const converter = require('json-2-csv');
-const SHA256 = require("crypto-js/sha256");
+const SHA256 = require('crypto-js/sha256');
 let episodes = require('../dev/episodes');
 
 // eslint-disable-next-line no-unused-vars
@@ -30,9 +30,9 @@ episodes.youtube.forEach((item, index) => {
     'aliases',
     'runtime',
   ],
-    item,
-    episodes.youtube,
-    index);
+  item,
+  episodes.youtube,
+  index);
 
   for (let i = 0; i < item.links.length; i += 1) {
     if (item.links[i].link.includes('youtube') || item.links[i].link.includes('wistia')) {
@@ -55,9 +55,9 @@ episodes.patreon.forEach((item, index) => {
     'stream',
     'runtime',
   ],
-    item,
-    episodes.patreon,
-    index);
+  item,
+  episodes.patreon,
+  index);
 
   if (item.link) {
     const parts = item.link.split('/');
@@ -83,7 +83,11 @@ sortDates('patreon');
 
 episodes = {
   totalCount: episodes.youtube.length + episodes.patreon.length,
-  youtubeCount: episodes.youtube.length,
+  youtubeCount: {
+    total: episodes.youtube.length,
+    totalLinks: episodes.youtube.filter((row) => JSON.stringify(row.links).includes('youtube')).length,
+    totalLinksAvailable: episodes.youtube.filter((row) => JSON.stringify(row.links).includes('Available')).length,
+  },
   patreonCount: episodes.patreon.length,
   ...episodes,
 };

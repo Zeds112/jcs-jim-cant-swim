@@ -1,6 +1,10 @@
 {
     "totalCount": 119,
-    "youtubeCount": 64,
+    "youtubeCount": {
+        "total": 64,
+        "totalLinks": 45,
+        "totalLinksAvailable": 14
+    },
     "patreonCount": 55,
     "youtube": [
         {
@@ -88,7 +92,7 @@
             "links": [
                 {
                     "link": "https://www.youtube.com/watch?v=DcqLYjBwcrk ",
-                    "availability": "",
+                    "availability": "Unavailable",
                     "runtime": "00:32:51"
                 }
             ],
@@ -452,7 +456,7 @@
             "links": [
                 {
                     "link": "https://www.youtube.com/watch?v=jJZv3z7FOt0",
-                    "availability": "Unlisted",
+                    "availability": "Available",
                     "runtime": "01:07:54"
                 }
             ],
@@ -556,7 +560,7 @@
             "links": [
                 {
                     "link": "https://www.youtube.com/watch?v=q-y2g9Ot5GA",
-                    "availability": "",
+                    "availability": "Available",
                     "runtime": "00:06:07"
                 }
             ],
@@ -578,7 +582,7 @@
             "links": [
                 {
                     "link": "https://www.youtube.com/watch?v=7JttwV6XZ_I",
-                    "availability": "Public",
+                    "availability": "Available",
                     "runtime": "00:50:28"
                 }
             ],
@@ -592,7 +596,7 @@
             "links": [
                 {
                     "link": "https://www.youtube.com/watch?v=khssrZ3Pb2M",
-                    "availability": "",
+                    "availability": "Available",
                     "runtime": "00:07:09"
                 }
             ],
@@ -606,7 +610,7 @@
             "links": [
                 {
                     "link": "https://www.youtube.com/watch?v=L0H6xYwMQnk",
-                    "availability": "Public",
+                    "availability": "Available",
                     "runtime": "00:39:48"
                 }
             ],
@@ -662,7 +666,7 @@
             "links": [
                 {
                     "link": "https://www.youtube.com/watch?v=HkRjIq8Cp2A",
-                    "availability": "Public",
+                    "availability": "Available",
                     "runtime": "00:42:12"
                 }
             ],
@@ -676,7 +680,7 @@
             "links": [
                 {
                     "link": "https://www.youtube.com/watch?v=9x2NaGkl6BI",
-                    "availability": "Public",
+                    "availability": "Available",
                     "runtime": "00:18:04"
                 }
             ],
@@ -690,7 +694,7 @@
             "links": [
                 {
                     "link": "https://www.youtube.com/watch?v=eJt_afGN3IQ",
-                    "availability": "Public",
+                    "availability": "Available",
                     "runtime": "01:07:54"
                 }
             ],
@@ -704,7 +708,7 @@
             "links": [
                 {
                     "link": "https://www.youtube.com/watch?v=UQt46gvYO40",
-                    "availability": "Public",
+                    "availability": "Available",
                     "runtime": "01:31:00"
                 }
             ],
@@ -718,7 +722,7 @@
             "links": [
                 {
                     "link": "https://www.youtube.com/watch?v=BemHqUqcpI8",
-                    "availability": "",
+                    "availability": "Available",
                     "runtime": "00:17:17"
                 }
             ],
@@ -732,7 +736,7 @@
             "links": [
                 {
                     "link": "https://www.youtube.com/watch?v=Mwt35SEeR9w",
-                    "availability": "",
+                    "availability": "Available",
                     "runtime": "00:59:05"
                 }
             ],
@@ -746,7 +750,7 @@
             "links": [
                 {
                     "link": "https://www.youtube.com/watch?v=z4Dck7J4Ks0",
-                    "availability": "Public",
+                    "availability": "Available",
                     "runtime": "00:51:49"
                 }
             ],
@@ -760,7 +764,7 @@
             "links": [
                 {
                     "link": "https://www.youtube.com/watch?v=rudSWhe_KD0",
-                    "availability": "",
+                    "availability": "Available",
                     "runtime": "00:45:40"
                 }
             ],
